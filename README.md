@@ -5,7 +5,7 @@ This is our project for our Java Class, We did everything we could even though w
 
 
 Creators:
-Kristoffer Ian Sioson
+Kristoffer Ian Sioson,
 Marc Olata
 
 
