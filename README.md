@@ -7,3 +7,7 @@ This is our project for our Java Class, We did everything we could even though w
 Creators:
 Kristoffer Ian Sioson
 Marc Olata
+
+
+
+//If you have any suggestions to improve the game, we would very much appreciate it and would love to learn more.
